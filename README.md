@@ -19,9 +19,9 @@ Aby sprostać wyzwaniom, używamy najnowszych technologii, sprawdzonych na wielk
 
 ## Co jest dla nas kluczowe?
 
-_Jakość_ - zapewniamy przez Code Review czy statyczną analizę kodu, testy QA, jednostkowe oraz automatyczne end-to-end.
+Jakość - zapewniamy przez Code Review czy statyczną analizę kodu, testy QA, jednostkowe oraz automatyczne end-to-end.
 
-_Dostępność_ - obsługujemy setki tysięcy klientów miesięcznie, stosując rozwiązania, które są odporne na awarie oraz skalują się wraz z rosnącym ruchem.
+Dostępność - obsługujemy setki tysięcy klientów miesięcznie, stosując rozwiązania, które są odporne na awarie oraz skalują się wraz z rosnącym ruchem.
 
 # Nasz zespoł
 
